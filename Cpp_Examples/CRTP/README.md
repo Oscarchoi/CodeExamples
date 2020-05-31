@@ -25,7 +25,7 @@ struct Derived : Base<Derived> {
 ## static polymorphism
 베이스 클래스의 파생 클래스 구현 호출을 컴파일 시점에 결정할 수 있다. 이는 동적 바인딩과 유사하지만, vtable이나 virtual 메소드들을 사용하지 않아 성능적인 이점이 있다.
 
-static_polymorphism.cc 에서 정적 바인딩이 가능함을 확인할 수 있다.
+[static_polymorphism.cc](https://github.com/Oscarchoi/CodeExamples/blob/master/Cpp_Examples/CRTP/static_polymorphism.cc) 에서 정적 바인딩이 가능함을 확인할 수 있다.
 
 
 
