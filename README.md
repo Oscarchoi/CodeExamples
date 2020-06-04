@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ReverseString/reverseString.cc)|Easy|
 |45|Jump Game II| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/EditDistance_H/minDistance.cc) | Hard|
 |46|Permutations| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/Permutations/permute.cc) |Medium|
 |1029|Two City Scheduling| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/TwoCityScheduling/twoCitySchedCost.cc) |Easy|
