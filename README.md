@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/CourseSchedule/canFinish.cc)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/FindtheDuplicatedNumber/findDuplicate.cc)|Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/RandomPickwithWeight/pickIndex.cc)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ConstructBinaryTreefromPreorderandInorderTraversal/buildTree.cc)|Medium|
