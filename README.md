@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/SymmetricTree/isSymmetric.cc)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/QueueReconstructionbyHeight/reconstructQueue.cc)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/FindAllNumbersDisappearedinanArray/findDisappearedNumbers.cc)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ReverseLinkedList/reverseList.cc)|Easy|
@@ -17,6 +18,7 @@
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/RandomPickwithWeight/pickIndex.cc)|Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ConstructBinaryTreefromPreorderandInorderTraversal/buildTree.cc)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ReverseString/reverseString.cc)|Easy|
+||[Weekly Context 190](https://leetcode.com/contest/weekly-contest-190)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/WeeklyContest-190)|12/18|
 |45|Jump Game II| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/EditDistance_H/minDistance.cc) | Hard|
 |46|Permutations| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/Permutations/permute.cc) |Medium|
 |1029|Two City Scheduling| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/TwoCityScheduling/twoCitySchedCost.cc) |Easy|
@@ -30,3 +32,4 @@
 |121|Best Time to Buy and Sell Stock|[C++]()|Easy|
 |16|3Sum Closest|[C++]()|Medium|
 |1466|Reorder Routes to Make All Paths Lead to the City Zero|[C++]()|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/TrappingRainWater/trap.cc)|Hard|
