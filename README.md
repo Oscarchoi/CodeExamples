@@ -8,6 +8,9 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/FindAllNumbersDisappearedinanArray/findDisappearedNumbers.cc)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ReverseLinkedList/reverseList.cc)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/MergeTwoBinaryTree\mergeTrees.cc)|Easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/CourseSchedule/canFinish.cc)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/FindtheDuplicatedNumber/findDuplicate.cc)|Medium|
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/RandomPickwithWeight/pickIndex.cc)|Medium|
