@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/IsSubsequence/isSubsequence.cc)|Easy|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/CoinChange2/change.cc)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/SymmetricTree/isSymmetric.cc)|Easy|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/QueueReconstructionbyHeight/reconstructQueue.cc)|Medium|
