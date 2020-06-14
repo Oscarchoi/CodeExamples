@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|5454|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/LeastNumberofUniqueIntegersafterKRemovals/findLeastNumOfUniqueInts.cc)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](
 https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/LargestDivisibleSubset/largestDivisibleSubset.cc)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/SortColors/sort_colors.cc)|Medium|
