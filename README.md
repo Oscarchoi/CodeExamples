@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.cc)|Easy|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/CheapestFlightsWithinKStops/findCheapestPrice.cc)|Medium|
 |5454|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/LeastNumberofUniqueIntegersafterKRemovals/findLeastNumOfUniqueInts.cc)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/LargestDivisibleSubset/largestDivisibleSubset.cc)|Medium|
