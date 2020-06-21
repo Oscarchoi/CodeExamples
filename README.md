@@ -8,6 +8,7 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/LongestDuplicateSubstring/longestDupSubstring.cc)|Hard|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/H-Index2/hIndex.cc)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.cc)|Easy|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/CheapestFlightsWithinKStops/findCheapestPrice.cc)|Medium|
