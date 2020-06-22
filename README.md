@@ -28,8 +28,9 @@
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ConstructBinaryTreefromPreorderandInorderTraversal/buildTree.cc)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ReverseString/reverseString.cc)|Easy|
 ||[Weekly Context 190](https://leetcode.com/contest/weekly-contest-190)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/WeeklyContest-190)|12/18|
-|45|Jump Game II| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/EditDistance_H/minDistance.cc) | Hard|
-|46|Permutations| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/Permutations/permute.cc) |Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/EditDistance_H/minDistance.cc) | Hard|
+|46|[Permutations](https://leetcode.com/problems/permutations-ii/)| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/Permutations/permute.cc) |Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/RemoveNthNodeFromEndofList/removeNthFromEnd.cc)|Medium|
 |1029|Two City Scheduling| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/TwoCityScheduling/twoCitySchedCost.cc) |Easy|
 |416|Partition Equal Subset Sum| [C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/PartitionEqualSubsetSum/canPartition.cc) |Medium|
 |240|Search a 2D Matrix II|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/Searcha2DMatrix2/searchMatrix2.cc)|Medium|
