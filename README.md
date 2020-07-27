@@ -8,6 +8,8 @@
  ### LeetCode Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/HouseRobberIII/rob.cc)|Medium|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/CppAlgorithms/ArrangingCoins/arrangeCoins.cc)|Hard|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/Cpp_Algorithms/LowestCommonAncestorofaBinaryTree/lowestCommonAncestor.cc)|Medium|
 ||[Weekly Context 196](https://leetcode.com/contest/weekly-contest-196)|[C++]()|19/19|
 |1502|[[WC196] Can Make Arithmetic Progression From Sequence](https://leetcode.com/contest/weekly-contest-196/problems/can-make-arithmetic-progression-from-sequence/)|[C++](https://github.com/Oscarchoi/CodeExamples/blob/master/Cpp_Algorithms/WeeklyContest-196/canMakeArithmeticProgression_3.cc)|Easy|
