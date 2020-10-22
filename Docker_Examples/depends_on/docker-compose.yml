@@ -1,0 +1,33 @@
+version: "2.4"
+services:
+  base:
+    image: launch_base
+    container_name: launch_base
+    ipc: host
+    network_mode: host
+    cap_add:
+      - NET_RAW
+      - NET_ADMIN
+    privileged: true
+    restart: always
+    stdin_open: true
+    tty: true
+    environment:
+      - DISPLAY=$DISPLAY
+    volumes:
+      - /tmp:/tmp
+    healthcheck:
+      test: ["CMD", "/healthcheck.sh"]
+      interval: 5s
+      timeout: 5s
+
+  child:
+    image: launch_child
+    container_name: launch_child
+    ipc: host
+    network_mode: host
+    stdin_open: true
+    tty: true
+    depends_on:
+      base:
+        condition: service_healthy
