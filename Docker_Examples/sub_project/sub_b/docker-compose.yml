@@ -1,0 +1,11 @@
+version: "2.4"
+services:
+  sub_b:
+    container_name: sub_b
+    image: ubuntu:18.04
+    entrypoint: ["echo", "Hello world!"]
+  sub_b_app:
+    container_name: sub_b_app
+    extends:
+      file: "$COMMON_APP_PATH/common.yml"
+      service: common

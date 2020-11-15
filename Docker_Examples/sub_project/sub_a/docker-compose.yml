@@ -1,0 +1,6 @@
+version: "2.4"
+services:
+  sub_a:
+    container_name: sub_a
+    image: ubuntu:18.04
+    entrypoint: ["top"]

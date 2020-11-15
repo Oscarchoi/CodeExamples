@@ -1,0 +1,12 @@
+version: "2.4"
+services:
+  common:
+    image: ubuntu:18.04
+    tty: true
+    entrypoint: ["echo", "Common"]
+
+  uncommon:
+    privileged: true
+    entrypoint: ["echo", Privileged]
+    extends:
+      service: common
