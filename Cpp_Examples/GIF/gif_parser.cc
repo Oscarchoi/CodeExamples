@@ -5,9 +5,14 @@
 
 #include "gif_lib.h"
 
-int main() {
-  GifFileType* fGIF = DGifOpenFileName(
-      "/home/oscarchoi/Git/CodeExamples/Cpp_Examples/GIF/sample.gif", nullptr);
+int main(int argc, char** argv) {
+  if(argc < 2) {
+    std::cout<< "E: no arguments"<< std::endl;
+    exit(1);
+  }
+
+
+  GifFileType* fGIF = DGifOpenFileName(argv[1], nullptr);
 
   if (DGifSlurp(fGIF) != GIF_OK) {
     std::cout << "GIF Open Failed.\n";
@@ -74,7 +79,7 @@ int main() {
   std::cout << "Total duration: " << duration << " ms" << std::endl;
 
   // Frame index to draw
-  int n = 10;
+  int n = 0;
 
   // Draw next frame rect with color index
   {
@@ -102,8 +107,8 @@ int main() {
     std::cout << "##########################################################\n";
     for (int i = 0; i < h; i++) {
       for (int j = 0; j < w; j++) {
-        int k = *(image.RasterBits + j + i * w);
-        auto& c = *(cm->Colors + k);
+        int k = image.RasterBits[j + i * w];
+        auto& c = cm->Colors[k];
 
         if (k == bg)
           std::cout << " ";
