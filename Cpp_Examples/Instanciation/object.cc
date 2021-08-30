@@ -8,4 +8,7 @@ void Object<N>::SayHello() {
 }
 
 template class Object<1>;
-template class Object<2>;
+
+#define INSTALL(label) template class Object<label>;
+INSTALL(2)
+#undef INSTALL
